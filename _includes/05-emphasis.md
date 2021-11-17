@@ -1,0 +1,3 @@
+**BOLD FONT**
+_ITALIC FONT_
+_**BOTH**_
